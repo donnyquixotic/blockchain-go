@@ -1,6 +1,6 @@
 
 # Blockchain-Go
-This is a simple blochain implementation written in Go allowing broadcasting to multiple nodes.
+This is a simple blochain implementation written in Go allowing broadcasting to multiple nodes
 
 ## Getting Started
 
@@ -17,7 +17,7 @@ Install Go - https://golang.org/doc/install
 
 ## Connecting new client
 
-`nc localhost 9000` -connect to network from a different client (new terminal)
+`nc localhost 9000` -connect to network from a new client (using port # defined in .env file)
 
 
 
