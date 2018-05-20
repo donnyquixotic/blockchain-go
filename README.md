@@ -17,7 +17,7 @@ Install Go - https://golang.org/doc/install
 
 ## Connecting new client
 
-`nc localhost 9000` -connect to network from a new client (using port # defined in .env file)
+`nc localhost 9000` -connect to network from a new client (using port # defined by ADDR in .env file)
 
 
 
