@@ -1,6 +1,6 @@
 
 # Blockchain-Go
-This is a simple blochain implementation written in Go allowing broadcasting to multiple nodes
+This is a simple blochain implementation written in Go allowing broadcasting to multiple nodes via TCP
 
 ## Getting Started
 
